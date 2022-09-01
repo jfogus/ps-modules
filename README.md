@@ -2,7 +2,6 @@
 A series of utility PowerShell modules.
 
 ## Modules
----
 ### Prompt
 - AnyKeyPrompt: A prompt which asks the user to press any key and does not echo
                 it back.
